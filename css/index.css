@@ -1,0 +1,67 @@
+body {
+background-color:#FFFFFF;
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.about-me-profession {
+    font-size: 14px;
+    color:black;
+}
+.about-me-section {
+    padding-bottom: 15px;
+    padding-top: 15;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 40px auto;
+}
+.sidebar-section {
+  background-color: #1E2939;
+}
+
+.work-experience-section {
+    
+}
+.main-section {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin-top: 40px;
+
+
+}
+.projects-section {
+
+}
+.right-section {
+    padding-left: 90px;
+    background-color: #FFFFFF;
+}
+.education {
+    
+}
+.projects-section span {
+    color:darkblue;
+    font-style:normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height:24px;
+    color: blanchedalmond;
+}
+.contacts-section-value {
+    font-style:normal;
+    font-weight:400;
+    font-size: 14px;
+    line-height: 24px;
+    color:aliceblue;
+}
+.contacts-skills, .skills-section {
+  margin-left: 40px;
+  color: #FFFFFF;
+}
+.sidebar-list {
+    color: orangered;
+}
+.sidebar-list span{
+    color: white;
+}
